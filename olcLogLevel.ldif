@@ -1,0 +1,5 @@
+# Increase log level
+dn: cn=config
+changetype: modify
+replace: olcLogLevel
+olcLogLevel: stats
