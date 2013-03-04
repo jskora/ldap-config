@@ -3,6 +3,10 @@ squeeze-ldap
 
 Setup LDAP server on Debian Squeeze (6.0.7 currently)
 
+* Fourth attempt
+
+  see [http://www.saruman.biz/wiki/index.php/OpenLDAP]
+
 * Third attempt
 
   *in progress*

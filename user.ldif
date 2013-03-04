@@ -1,0 +1,18 @@
+dn: cn=jskora,ou=groups,dc=localdomain
+cn: jskora
+gidNumber: 20000
+objectClass: top
+objectClass: posixGroup
+
+dn: uid=jskora,ou=people,dc=localdomain
+uid: jskora
+uidNumber: 20000
+gidNumber: 20000
+cn: JoeSkora
+sn: JoeSkora
+objectClass: top
+objectClass: person
+objectClass: posixAccount
+objectClass: shadowAccount
+loginShell: /bin/bash
+homeDirectory: /home/jskora
