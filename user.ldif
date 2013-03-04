@@ -11,7 +11,7 @@ gidNumber: 20000
 cn: JoeSkora
 sn: JoeSkora
 objectClass: top
-objectClass: person
+objectClass: inetOrgPerson
 objectClass: posixAccount
 objectClass: shadowAccount
 loginShell: /bin/bash

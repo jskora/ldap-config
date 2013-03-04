@@ -1,0 +1,8 @@
+dn: uid=jskora,ou=people,dc=localdomain
+changetype: modify
+replace: objectClass
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+-
