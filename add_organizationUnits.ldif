@@ -2,7 +2,6 @@ dn: ou=people,dc=localdomain
 ou: people
 objectClass: organizationalUnit
 
-
 dn: ou=groups,dc=localdomain
 ou: groups
 objectClass: organizationalUnit

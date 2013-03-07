@@ -1,0 +1,5 @@
+dn: cn=jskora,ou=groups,dc=localdomain
+objectClass: top
+objectClass: posixGroup
+cn: jskora
+gidNumber: 20000

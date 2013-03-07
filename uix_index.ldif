@@ -2,7 +2,7 @@
 dn: olcDatabase={1}hdb,cn=config
 changetype: modify
 add: olcDbIndex
-olcDbIndex: uid eq
+olcDbIndex: uid eq,pres,sub
 -
 add: olcDbIndex
 olcDbIndex: cn eq

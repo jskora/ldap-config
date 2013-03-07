@@ -1,9 +1,3 @@
-dn: cn=jskora,ou=groups,dc=localdomain
-cn: jskora
-gidNumber: 20000
-objectClass: top
-objectClass: posixGroup
-
 dn: uid=jskora,ou=people,dc=localdomain
 uid: jskora
 uidNumber: 20000
@@ -16,3 +10,4 @@ objectClass: posixAccount
 objectClass: shadowAccount
 loginShell: /bin/bash
 homeDirectory: /home/jskora
+mail: jskora@gmail.com
