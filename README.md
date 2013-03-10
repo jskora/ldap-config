@@ -16,11 +16,11 @@ _add_content.ldif_ was split into add_organizationUnits.ldif, add_group.ldif, ad
 setting PAM modules (http://techpubs.spinlocksolutions.com/dklar/ldap.html)
 
 * resolved permission errors during Initialise Database
+(https://github.com/gitlabhq/gitlabhq/issues/1799)
+
 :::bash
      $ sudo usermod -a -G git gitlab
      $ sudo usermod -a -G gitlab git
-
-(https://github.com/gitlabhq/gitlabhq/issues/1799)
 
 * to proxy through apache, add these lines to /etc/apache2/conf.d/gitlab.conf
 > ProxyPass /gitlab http://tuttle.localdomain:8088/gitlab
