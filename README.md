@@ -18,7 +18,7 @@ setting PAM modules (http://techpubs.spinlocksolutions.com/dklar/ldap.html)
 * resolved permission errors during Initialise Database
 (https://github.com/gitlabhq/gitlabhq/issues/1799)
 
-:::bash
+    :::bash
      $ sudo usermod -a -G git gitlab
      $ sudo usermod -a -G gitlab git
 
