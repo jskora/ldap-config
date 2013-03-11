@@ -2,7 +2,13 @@
 
 Setup LDAP server on Ubuntu (12.10)
 
-* based on [https://help.ubuntu.com/12.10/serverguide/openldap-server.html]
+* LDAP based on (https://help.ubuntu.com/12.10/serverguide/openldap-server.html)
+* PHP (https://help.ubuntu.com/12.10/serverguide/php5.html)
+* PhpLdapAdmin (https://help.ubuntu.com/community/InstallingphpLDAPadmin)
+* GitLab
+    * (https://github.com/gitlabhq/gitlabhq/blob/master/doc/install/installation.md)
+    * (https://github.com/gitlabhq/gitlabhq/blob/master/doc/install/databases.md)
+    * (https://github.com/gitlabhq/gitlabhq/blob/master/doc/install/requirements.md)
 
 ## Notes/Variations from document:
 
