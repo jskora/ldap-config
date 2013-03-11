@@ -10,6 +10,10 @@ Setup LDAP server on Ubuntu (12.10)
     * (https://github.com/gitlabhq/gitlabhq/blob/master/doc/install/databases.md)
     * (https://github.com/gitlabhq/gitlabhq/blob/master/doc/install/requirements.md)
 
+* Fix GitLab unable to clone project with Git and HTTP
+    * (https://github.com/jasl8r/gitlabhq/commit/1331d4f69c64709e81f9004d704a5b5a42cd4035)
+    * (http://www.woodruffs.org/2013/02/27/gitlab-4-2-stable-and-ldap-with-activedirectory/)
+
 ## Notes/Variations from document:
 
 * DIT = Domain Information Tree
